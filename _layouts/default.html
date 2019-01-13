@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta charset="utf-8">
     <title>A Night In Japan</title>
@@ -7,15 +8,17 @@
     <!-- just .css not .scss coz jekyll will do for us -->
     <link rel="stylesheet" href="/assets/css/app.css">
 </head>
-    <body>
-        <!-- content = included automatically with index.md -->
-        <!-- markdown file for a lot of content -->
-        <div class="circle"></div>
-        {% include header.html %}
 
-        <section>
-            {{ content }}
-        </section>
-        
-    </body>
+<body>
+    <!-- content = included automatically with index.md -->
+    <!-- markdown file for a lot of content -->
+    <div class="circle"></div>
+    {% include header.html %}
+
+    <section>
+        {{ content }}
+    </section>
+
+</body>
+
 </html>
