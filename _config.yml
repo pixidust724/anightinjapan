@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: carriemyicellar@gmail.com
 description: A blog about Japan
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: 
 github_username: pixidust724
 markdown: kramdown
