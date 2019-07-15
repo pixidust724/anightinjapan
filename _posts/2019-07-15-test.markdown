@@ -1,0 +1,13 @@
+---
+title: test
+date: 2019-07-15 15:43:00 Z
+Product Name:
+- 包裝: 24x500g
+  貨品: Divella Penna
+---
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
